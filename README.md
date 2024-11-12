@@ -92,6 +92,7 @@ The **Inmate Information Management System** is a web-based application designed
 │   └── views/             # HTML views for the frontend
 ├── index.php              # Main entry point
 └── README.md              # Project documentation
+```
 
 ## Future Enhancements
 - **Role-Based Reports**: More granular access control for different user roles.
